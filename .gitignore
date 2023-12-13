@@ -2,3 +2,5 @@ build/
 dist/
 main.py
 main_gui.spec
+script.spec
+sp98helper.spec
